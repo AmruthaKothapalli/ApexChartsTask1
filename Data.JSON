@@ -1,0 +1,10 @@
+{
+  "xaxis": {
+    "name": "Discharge by interval",
+    "data": [null, 100, 780, 500, 300, 150, null, null, null, null]
+  },
+  "yaxis": {
+    "name": "Avg Time",
+    "data": [0, 45, 35, 27, 43, 22, 0, 0, 0, 0]
+  }
+}

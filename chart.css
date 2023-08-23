@@ -1,0 +1,17 @@
+body {
+  margin: 20px;
+  border: 1px solid #a8a8a8;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 2px 2px #a8a8a8;
+}
+
+.head {
+  color: pink;
+  border-left: 3px solid pink;
+  background-image: linear-gradient(to left, LavenderBlush, SeaShell);
+  padding-left: 7px;
+  margin-bottom: 10px;
+  height: 25px;
+  padding-top: 5px;
+}
